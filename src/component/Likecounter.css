@@ -1,0 +1,13 @@
+.likes {
+  text-align: center;
+}
+.btn 1 {
+  border: 2px;
+  border-color: #5ac18e;
+  background: none;
+  padding: 10px;
+  font-size: 20px;
+  font-family: sans-serif;
+  cursor: pointer;
+  margin: 10px;
+}
